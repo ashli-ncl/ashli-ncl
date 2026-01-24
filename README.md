@@ -47,12 +47,13 @@ When I’m not studying, I enjoy:
 ### 📈 GitHub Stats
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ashli-ncl&show_icons=true&theme=prussian&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ashli-ncl&show_icons=true&theme=algolia&hide_border=true"
     alt="GitHub stats"
   />
 
 ---
 ### 📫 Let’s Connect
+
   <a href="mailto:bulotaoloashleynicole@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
