@@ -44,13 +44,12 @@ When I’m not studying, I enjoy:
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
+### 📈 GitHub Stats
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ashli-ncl&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ashli-ncl&show_icons=true&theme=prussian&hide_border=true"
     alt="GitHub stats"
   />
-</p>
 
 ---
 ### 📫 Let’s Connect
